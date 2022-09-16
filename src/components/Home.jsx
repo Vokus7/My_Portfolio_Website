@@ -13,8 +13,9 @@ const Home = () => {
                     </h2>
                     <h3 className="text-3xl sm:text-5xl font-bold text-white">a Front-End Web Developer</h3>
                     <p className="text-gray-500 py-4 max-w-md">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. A quis non mollitia quaerat eum iusto facere architecto dolorum veritatis possimus, ullam explicabo veniam laboriosam. At impedit ducimus optio quae. Ipsam?
-                </p>
+                        I have been building and designing software for a year. I currently utilize popular technologies such as
+                        React, Javascript and Tailwind to design and build softwares.
+                    </p>
                 
                 <div>
                     <Link to="portfolio" smooth duration={600} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md justify-center bg-gradient-to-r from-cyan-500 to-blue-500">
