@@ -14,7 +14,7 @@ const Home = () => {
                     <h3 className="text-3xl sm:text-5xl font-bold text-white">a Front-End Web Developer</h3>
                     <p className="text-gray-500 py-4 max-w-md">
                         I have been building and designing software for a year. I currently utilize popular technologies such as
-                        React, Javascript and Tailwind to design and build softwares.
+                        React, Javascript and Tailwind to design and build software.
                     </p>
                 
                 <div>

@@ -10,8 +10,7 @@ const About = () => {
                 </p>
             </div>
             <p className='text-xl mt-11 leading-9'>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem sequi veniam corporis accusamus! Ullam itaque esse possimus nesciunt quisquam, officiis quam fuga neque quo corporis, voluptatem voluptatibus veniam nisi maxime sunt perferendis voluptatum! Alias officiis quia enim, quis praesentium ipsum natus odit sapiente, debitis, nisi obcaecati magni consectetur iste esse.
-            </p>
+                  I am a passionate self-taught Front-End Web Developer. I’ve always been drawn to building and designing systems and coupled with my fascination with computers, programming is my ultimate passion. I design beautiful and efficient websites, taking into account clients desires and goals. I also work well with a team in a professional setting. Check out my portfolio below to see some of my works.            </p>
         </div>
         
     </div>
