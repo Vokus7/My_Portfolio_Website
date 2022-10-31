@@ -4,9 +4,11 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
-    fontFamily: {
-      signature: ["Great Vibes"],
+    extend: {
+      fontFamily: {
+        lora: "'Lora', serif",
+        signature: "Great Vibes"
+      }
     }
   },
   plugins: [],
