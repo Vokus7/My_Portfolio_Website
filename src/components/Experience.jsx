@@ -5,7 +5,7 @@ import javascript from '../assets/javascript.png';
 import reactimg from '../assets/react.png';
 import tailwindcss from '../assets/tailwind.png';
 import css from '../assets/css.png';
-import { motion, Variants } from "framer-motion";
+import { motion } from "framer-motion";
 
 const Experience = () => {
 
