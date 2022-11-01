@@ -1,12 +1,10 @@
-import NavBar from "./components/NavBar";
-import Home from "./pages/Home";
+import GameInterface from "./pages/GameInterface";
 
 
 function App() {
   return (
     <>
-      <NavBar />
-      <Home />      
+      <GameInterface />      
     </>
   );
 }
